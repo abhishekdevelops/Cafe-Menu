@@ -13,8 +13,5 @@ This is a simple **cafe menu webpage** built using **HTML & CSS**.
 1. Clone this repository:
    ```bash
    git clone https://github.com/abhishek-web-design/cafe-menu.git
-# Cafe Menu Project
-git add README.md
 
-X
 
