@@ -8,7 +8,7 @@ A simple menu design using HTML and CSS.
 - Uses only HTML & CSS.
 
 ## 🌐 Live Demo
-[View on GitHub Pages](https://abhishekdevelops.github.io/cafe-menu/)  
+[View on GitHub Pages] (https://abhishekdevelops.github.io/cafe-menu/)  
 
 
 ## 📂 Files Included
