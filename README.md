@@ -1,17 +1,19 @@
-# ☕ Cafe Menu Project
+# ☕ Cafe Menu
 
-This is a simple **cafe menu webpage** built using **HTML & CSS**.
+A simple menu design using HTML and CSS.
 
-## 📌 Features:
-- Styled using **CSS**
-- Simple & clean design
-- Beginner-friendly project
+## 🚀 Features
+- Fully responsive design.
+- Clean and minimal UI.
+- Uses only HTML & CSS.
 
-## 📂 How to Use:
-
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/abhishek-web-design/cafe-menu.git
+## 🌐 Live Demo
+[View on GitHub Pages](https://abhishekdevelops.github.io/cafe-menu/)  
 
 
+## 📂 Files Included
+- `index.html` → Main structure.
+- `styles.css` → CSS for styling the menu.
+
+## 📜 License
+This project is open-source and free to use.
